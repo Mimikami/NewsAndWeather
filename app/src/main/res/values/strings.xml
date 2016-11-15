@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewsAndWeather</string>
+    <string name="weather_today">今日天气</string>
 </resources>
